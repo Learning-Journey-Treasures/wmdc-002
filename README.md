@@ -1,8 +1,7 @@
 **郑重声明: 项目经过本地测试，确保可以运行， 可以用于学习和毕业设计参考~**
 
-[点我获取源码](https://x-x.fun/e/JXcd315ce1shK)💕🤞
+![gh_17810254f3db_258](https://github.com/user-attachments/assets/26f5aad6-9d05-4ca0-9519-601099394412)
 
-[点我查看更多](http://blog.cyrobot.top/blog)💕🤞
 
 #### 1.项目介绍
 基于spring boot和vue的前后端分离的外卖系统, 包含手机端，后台管理功能.
